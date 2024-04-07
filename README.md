@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/Shyam-Makwana/Shyam-Makwana/blob/master/logos/name.svg" alt="Shyam Makwana" />
+    <img src="https://github.com/Shyam-Makwana/Shyam-Makwana/blob/master/logos/name.svg" alt="Amish Pandya" />
 </h1>
 
 <p align="center">
